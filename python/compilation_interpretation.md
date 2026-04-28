@@ -1,12 +1,12 @@
 # Python's Compilation and Interpretation
 
-Python is called **Interpreted Language**, because it's source code is not directly compiled into machine readable binary code (0 or 1) before runing (Such as C). Instead, there is an interpretor translate source code line by line on-the-fly.
+Python is called an **interpreted language**, because its source code is not directly compiled into machine-readable binary code (0 or 1) before running (such as C). Instead, there is an interpreter that translates source code line by line on-the-fly.
 
 ---
 
 ## 1. Complete Process
 
-Following flow chat is the process that how Python compile and interpret source code.
+The following flow chart shows the process of how Python compiles and interprets source code.
 
 ```mermaid
 graph LR
